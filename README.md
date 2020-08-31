@@ -1,6 +1,6 @@
 ## Headllines.com
 
-Subscribe daily / weekly / monthly headlines on HackerNews / ProductHunt / GitHub /...
+Open source headline collectors
 
 ## Refs
 

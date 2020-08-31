@@ -55,7 +55,7 @@ section {
   z-index: 101;
 }
 .coming_content h1 {
-  font-size: 5.625em;
+  font-size: 5em;
   margin: 0;
   letter-spacing: 2px;
   text-align: center;
@@ -101,7 +101,7 @@ section {
   font-family: "Montserrat", sans-serif;
   letter-spacing: 2px;
   line-height: 2;
-  font-size: 1em;
+  font-size: 1.3em;
   font-weight: 400;
   text-align: center;
   margin: 0;
